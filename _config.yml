@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Jose Giraldo / Sound engineer"
 title_separator          : "-"
 name                     : &name "Jose Giraldo"
-description              : &description "Sound engineer"
-url                      : https://wetdog.github.io/
+description              : &description "Sound Engineer"
+url                      : https://wetdog.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

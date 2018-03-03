@@ -11,21 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Sound Engineering, Universidad de San Buenaventura , 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 08/17 - Now: Research and Development
+  * AAC Acústica + Luminica
+  * low-cost system design and signal processing, environmental noise monitor-
+    ing systems, real-time sound event detection and classification
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/15 - 07/17: Acoustic Modelling
+  * AAC Acústica + Luminica
+  * Environmental noise measurements, data processing from measurements
+    and GIS integration, creation of acoustic models, simulation and data analysis
+    
+* 12/14 - 01/15: Acoustic design
+  * Universidad de caldas
+  * Design acous
+    
+* 09/14 - 10/14: Noise Measurement assistant
+  * AAC Acústica + Luminica
+  * Took environmental noise measurements for the Medellin noise map including traffic counts
+ 
+ 
   
 Skills
 ======
@@ -56,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member at Open Data Council, Discuss and collaborate with the open data strategy in Medellin.

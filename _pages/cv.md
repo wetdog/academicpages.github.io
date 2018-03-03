@@ -27,7 +27,7 @@ Work experience
     
 * 12/14 - 01/15: Acoustic design
   * Universidad de caldas
-  * Design acous
+  * Design acoustical treatments for rooms used in audio recording
     
 * 09/14 - 10/14: Noise Measurement assistant
   * AAC Acústica + Luminica
@@ -37,12 +37,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Digital signal processing
+* Environmental acoustics
+* Machine learning
+* Self learner
+* Collaborative
 
 Publications
 ======
@@ -56,11 +55,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======

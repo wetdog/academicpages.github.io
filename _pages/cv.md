@@ -17,8 +17,8 @@ Work experience
 ======
 * 08/17 - Now: Research and Development
   * AAC Acústica + Luminica
-  * low-cost system design and signal processing, environmental noise monitor-
-    ing systems, real-time sound event detection and classification
+  * low-cost system design and signal processing, environmental noise monitoring systems,
+    real-time sound event detection and classification
 
 * 10/15 - 07/17: Acoustic Modelling
   * AAC Acústica + Luminica

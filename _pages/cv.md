@@ -33,8 +33,11 @@ Work experience
   * AAC Acústica + Luminica
   * Took environmental noise measurements for the Medellin noise map including traffic counts
  
- 
-  
+Awards
+====== 
+  * 10/2017 National Travel grant for groups "Workshops of audio and acoustics"
+  * 02/2018 Diversity scholarship for Pycon 2018
+======
 Skills
 ======
 * Digital signal processing

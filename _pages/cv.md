@@ -37,6 +37,7 @@ Awards
 ====== 
   * 10/2017 National Travel grant for groups "Workshops of audio and acoustics"
   * 02/2018 Diversity scholarship for Pycon 2018
+  * 06/2018 Deep learning for MIR scholarship, CCRMA at Stanford university
 
 Skills
 ======

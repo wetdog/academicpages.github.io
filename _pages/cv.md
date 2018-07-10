@@ -31,13 +31,13 @@ Work experience
     
 * 09/14 - 10/14: Noise Measurement assistant
   * AAC Acústica + Luminica
-  * Took environmental noise measurements for the Medellin noise map including traffic counts
+  * Environmental noise measurements for the Medellin noise map including traffic counts
  
 Awards
 ====== 
   * 10/2017 National Travel grant for groups "Workshops of audio and acoustics"
   * 02/2018 Diversity scholarship for Pycon 2018
-  * 06/2018 Deep learning for MIR scholarship, CCRMA at Stanford University
+  * 06/2018 Deep learning for MIR summer workshops scholarship, CCRMA at Stanford University
 
 Skills
 ======

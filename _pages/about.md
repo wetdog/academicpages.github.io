@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a sound engineer and musician from Colombia passionate about programming and AI.
 
-<img src="/images/jose_ccrma.jpg" width="200">
+<img src="/images/jose_ccrma.jpg" width="100">
 
 
 

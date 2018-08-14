@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a sound engineer and musician from Colombia passionate about programming and AI.
+I'm a sound engineer and musician from Colombia passionate about programming and AI. I love sound, music and computers.
 
 <img src="/images/jose_ccrma.jpg" width="300">
 

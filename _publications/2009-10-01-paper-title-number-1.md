@@ -19,4 +19,3 @@ Recommended citation: J. Giraldo. (2017). "Automatic Sound event recognition of 
 sources from a database recorded in Medellin, using sound descriptors and SVM." <i>Universidad  de  San  Buenaventura 
 Medellín 1</i>. 1(1).
 
----

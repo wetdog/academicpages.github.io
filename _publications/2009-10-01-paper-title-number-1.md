@@ -2,7 +2,11 @@
 title: "Automatic Sound event recognition of traffic and community noise"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Audio content analysis of real world recordings instead of common SPL measures is proposed as 
+a technique for environmental noise evaluation. However, because of the large quantity of data that 
+a  monitoring  system  produces  an  automatic sound  event  algorithm  was  built  using  audio 
+descriptors  as MFCC,  spectral  centroid,  zcr  and  roll  off  coupled  with  a  supervised  learning 
+approach with SVM'
 date: 2017-02-01
 venue: 'Universidad  de  San  Buenaventura'
 paperurl: 'http://bibliotecadigital.usb.edu.co/bitstream/10819/4431/1/Identificacion_Automatica_Eventos_Giraldo_2017.pdf'

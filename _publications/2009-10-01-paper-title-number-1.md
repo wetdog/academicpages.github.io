@@ -1,4 +1,4 @@
----
+
 title: Automatic Sound event recognition of traffic and community noise
 sources from a database recorded in Medellin, using sound descriptors and SVM
 collection: publications
@@ -10,7 +10,7 @@ paperurl: 'http://bibliotecadigital.usb.edu.co/bitstream/10819/4431/1/Identifica
 citation: 'J. Giraldo. (2017). &quot;Automatic Sound event recognition of traffic and community noise
 sources from a database recorded in Medellin, using sound descriptors and SVM.&quot; <i>Universidad  de  San  Buenaventura 
 Medellín 1</i>. 1(1).'
----
+
 
 [Download paper here](http://bibliotecadigital.usb.edu.co/bitstream/10819/4431/1/Identificacion_Automatica_Eventos_Giraldo_2017.pdf)
 

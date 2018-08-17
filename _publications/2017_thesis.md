@@ -1,7 +1,7 @@
 ---
 title: "Automatic Sound event recognition of traffic and community noise"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017_thesis
 excerpt: 'Audio content analysis of real world recordings instead of common SPL measures is proposed as 
 a technique for environmental noise evaluation. However, because of the large quantity of data that 
 a  monitoring  system  produces  an  automatic sound  event  algorithm  was  built  using  audio 

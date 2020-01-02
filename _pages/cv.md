@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
+* Data science for all 10-week AI Training Program, Correlation one, 2019
 * B.S. in Sound Engineering, Universidad de San Buenaventura , 2017
+
 
 Work experience
 ======
@@ -35,9 +37,10 @@ Work experience
  
 Awards
 ====== 
-  * 10/2017 National Travel grant for groups "Workshops of audio and acoustics"
-  * 02/2018 Diversity scholarship for Pycon 2018
   * 06/2018 Deep learning for MIR summer workshops scholarship, CCRMA at Stanford University
+  * 02/2018 Diversity scholarship for Pycon 2018
+  * 10/2017 National Travel grant for groups "Workshops of audio and acoustics"
+
 
 Skills
 ======
